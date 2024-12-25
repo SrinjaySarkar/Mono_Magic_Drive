@@ -21,4 +21,8 @@ Make changes in the config file accordingly [here:](./configs)
 ![](https://github.com/SrinjaySarkar/Mono_Magic_Drive/blob/main/assets/3_gen0.png?raw=true)
 ![](https://github.com/SrinjaySarkar/Mono_Magic_Drive/blob/main/assets/4_gen0.png?raw=true)
 
-- With Spatia-Temporal Attention
+- With Spatio-Temporal Attention
+
+https://github.com/user-attachments/assets/59dea4d0-92a0-4518-ae32-3b29648ddb2e
+
+
